@@ -38,8 +38,8 @@ Machen Sie eine Aufzählung von Lizenzmodellen.
 * FPP/ Full packaged Product
   
 Was bedeutet "open source" und was kann man mit solcher Software machen?  
-* Es bedeutet "Offene Quelle" und es ist dafür gemacht, dass eine Software öffentlich, also zugänglich für die Öffentlichkeit ist.
-* 
+* Es bedeutet "Offene Quelle" und es ist dafür gemacht, dass eine Software öffentlich, also zugänglich für die Öffentlichkeit ist. Es bedeutet, das der Quellcode einer Software öffentlich zugänglich ist und die Nutzerdie Software benutzen, verändern und weitergeben können, oft unter bestimmten Bedingungen.
+
 Was ist der Unterschied zwischen "copyright" und "copyleft"?
 *   Copyright beschützt ein Werk, so das es ohne Erlaubnis nicht benutzt oder bearbeitet werden kann.
 *   Copyleft ist dafür, das man ein Werk frei nutzen und teilen kann. Also sollte es man nur nutzen, wenn man es wieder teilt.
@@ -52,3 +52,57 @@ Was ist der Unterschied zwischen "copyright" und "copyleft"?
  * Bezahlbare App: EULA, also eine Art "Vertrag" zwischen dem Anbieter und mir
  * Gratis App: Freeware, Lizenz zur Nutzung 
  * Bei einem iPhone sind die Lizenzkosten im Preis schon mitberechnet (Apple iOS EULA).
+
+
+(01.09.2025)**Brian**
+Wissensüberprüfung: Einzelne Lizenzen ergänzt
+
+
+ **Privacy- Einstellungen, Smartphone**
+ [Link](https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen)
+ * 01 Aktivieren Sie die Gerätesperre   
+   Mit Face-ID   
+* 02 Sperren und löschen Sie das Gerät bei Verlust sofort   
+  Aktiviert(SIM- Karte)   
+* 03 Installieren Sie Apps nur aus vertrauenswürdigen Quellen   
+  Ich lade nur aus dem Apple Store herunter.   
+* 04 Nutzen Sie öffentliche WLAN mit Vorsicht   
+  Ich mache nicht wichtiges über eine unsichere Internetsquelle.      
+* 05 Installieren Sie Updates   
+  Ich installiere sie, wenn ich genug Speicherplatz habe.   
+* 06 Löschen Sie Daten sicher   
+  Ich lösche meine Dateien regelmässig.
+* 07 Beachten Sie allgemeine Vorsichtsregeln   
+  Ich bin ziemlich vorsichtig unterwegs und bleibe nur auf bekannten Webseiten.   
+* 08 Deaktivieren Sie drahtlose Schnittstellen   
+  Das mache ich normalerweise.   
+* 09 Schränken Sie die Synchronisierung ein   
+  Ich erlaube keinen Zugriff auf alle Dateien.   
+* 10 Benutzen Sie fürs Login einen zweiten Faktor   
+  Das wird normalerweise automatisch verlangt.      
+  
+
+  **BYOD**
+  [Link](https://www.datenschutz.ch/meine-daten-schuetzen/bring-your-own-device-byod-10-schritte-fuer-mehr-sicherheit)
+* 01 Befolgen Sie die Arbeitgeberregeln   
+    Ich habe mich nach den Vorschriften organaisiert.   
+* 02 Wählen Sie eine sichere Authentifizierung   
+    Ich habe verschiedene komplexe Passwörter.   
+* 03 Sperren Sie das Gerät bei Abwesenheit   
+    Ich habe es mir angewohnt, es immer zu sperren.   
+* 04 Aktualisieren Sie die Software   
+    Ich schaue regelmässig in den Einstellungen, ob ein neues Update verfügbar ist.   
+* 05 Verschlüsseln Sie die Daten   
+    Das habe ich noch nicht gemacht.   
+* 06 Löschen Sie das Gerät bei Verlust sofort   
+    Das merke ich mir.      
+* 07 Sichern Sie die Daten   
+    Ja, habe ich gemacht.      
+* 08 Meiden Sie öffentliche WLAN   
+    Draussen verbinde ich mich immer zu meinem Handy(Hotspot).   
+* 09 Installieren und aktivieren Sie Antivirensoftware   
+     Integrierte Software: Microsoft Defender Antivirus   
+* 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen   
+    Ich lade nur von den offizielen Websiten Apps herunter.   
+    
+  
