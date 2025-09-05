@@ -80,7 +80,13 @@ Wissensüberprüfung: Einzelne Lizenzen ergänzt
   Ich erlaube keinen Zugriff auf alle Dateien.   
 * 10 Benutzen Sie fürs Login einen zweiten Faktor   
   Das wird normalerweise automatisch verlangt.      
-  
+
+
+  **CIA triad**   
+  * Integrität   
+  * Vartraulichkeit   
+  * Verfügbarkeit    
+
 
   **BYOD**
   [Link](https://www.datenschutz.ch/meine-daten-schuetzen/bring-your-own-device-byod-10-schritte-fuer-mehr-sicherheit)
