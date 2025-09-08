@@ -112,3 +112,39 @@ Wissensüberprüfung: Einzelne Lizenzen ergänzt
     Ich lade nur von den offizielen Websiten Apps herunter.   
     
   
+
+
+```mermaid
+mindmap
+  root((Authentifizierung))
+    Definition
+      Identifizierung
+      Authentifizierung
+      Autorisierung
+    Faktoren
+      Wissen
+        Passwort
+        PIN
+      Besitz
+        Token
+        Smartcard
+        Smartphone
+      Sein
+        Fingerabdruck
+        Gesichtserkennung
+        Iris-Scan
+    Verfahren
+      Einfaktor
+      Zwei-Faktor (2FA)
+      Multi-Faktor (MFA)
+    Beispiele
+      Login am PC
+      Online-Banking
+      Smartphone-Entsperrung
+    Trends
+      Passkeys
+      FIDO2
+      Biometrie
+  ```
+
+
