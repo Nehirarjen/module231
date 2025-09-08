@@ -110,9 +110,9 @@ Wissensüberprüfung: Einzelne Lizenzen ergänzt
      Integrierte Software: Microsoft Defender Antivirus   
 * 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen   
     Ich lade nur von den offizielen Websiten Apps herunter.   
-    
-  
 
+	
+**mermaid-challenge**
 
 ```mermaid
 mindmap
@@ -146,5 +146,15 @@ mindmap
       FIDO2
       Biometrie
   ```
+
+
+**Caesar- Verschlüsselung**
+
+Bei jedem Buchstaben immer plus 3.   
+Enschlüsselung, 3 zurück.   
+
+Bsp:   
+Klartext: ICHLIEBEDICH   
+Geiheimbotschaft: LFKOLHEHGLFK   
 
 
