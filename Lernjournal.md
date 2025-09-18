@@ -20,6 +20,9 @@ Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)
 * Die Verarbeitung personbezogener Daten ist umfangreich und findet regelmässig statt.
 * Die Verarbeitung führt wahrscheinlich zu einem hohen Risiko für die Privatsphäre der betroffenen Person.
 
+•Wer haftet bei Datenschutzverstößen — der Verantwortliche oder der Schweiz-Vertreter? Und in welchem Verhältnis?   
+* Im Außenverhältnis haftet grundsätzlich der Verantwortliche; der Schweiz-Vertreter kann im Innenverhältnis vertraglich haftbar gemacht werden, falls er gegen seine Vereinbarung mit dem Verantwortlichen verstösst.
+
 
 ***EMRK (Europäische Menschenrechtskonvention)***
 * Die Schweiz ist Vertragsstaat der EMRK.
@@ -106,6 +109,14 @@ Was ist der Unterschied zwischen "copyright" und "copyleft"?
 (01.09.2025)**Brian**
 Wissensüberprüfung: Einzelne Lizenzen ergänzt
 
+
+**Cookies**
+* Notwendige Cookies: Erforderlich
+* Tracking- Cookies: Tracken Nutzerverhalten
+* Third- Party- Cookies: Analysieren Nutzer auf anderen Webseit, um angepasste Werbung anzuzeigen.
+
+**Dark Patterns**   
+* 
 
  **Privacy- Einstellungen, Smartphone**
  [Link](https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen)
