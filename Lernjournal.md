@@ -25,13 +25,50 @@ Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)
 * Die Schweiz ist Vertragsstaat der EMRK.
 * Bildet die menschenrechtliche Basis für den Datenschutz in Europa.
 
-  ***DSGVO (Datenschutz- Grundverordnung der EU)***
-* Für schweizerische Unternehmen relevant, wenn sie: Waren oder Dienstleistungen an Personen in der EU anbieten. Ist der nDSG angenähert, um die EU- Angemessenheit der Schweiz zu sichern( gleichwertiger Datenschutzniveau).
+***DSGVO (Datenschutz- Grundverordnung der EU)***
+* Für schweizerische Unternehmen relevant, wenn sie:   
+Waren oder Dienstleistungen an Personen in der EU anbieten.
+* Der nDSG ist der DSGVO angenähert, um die EU- Angemessenheit der Schweiz zu sichern( gleichwertiger Datenschutzniveau).
 
 ***EDÖB (Eidgenössischer Datenschutz- und Öffentlichkeitbeauftrager)***
 * Unabhängige Aufsichtsbehörde in der Schweiz
 * Beratung vonPrivatspersonen, Unternehmen etc
 * Überwachung der Einhaltung des DSG/nDSG
+
+
+**Datensicherheits- Dreieck (CIA- Triade):**   
+•Confidentiality (Vertraulichkeit)  
+* Schutz vor unbefugtem Zugriff von Daten.
+* Nur Berechtigte dürfen auf Daten zugreifen.
+* Schutz vor unbefugtem Lesen oder Zugriff.
+* Beispiele: Passwörter, Zwei- Fakor- Authentifizierung, Verschlüsselung, VPN/ Firewalls   
+
+•Integrity (Integrität)    
+* Schutz vor unerlaubter Veränderung von Daten.   
+* Daten müssen vollständig und unverändert bleiben.   
+* Schutz vor Änderungen (evtl Ausversehen).   
+* Beispiele: Versionskontrollen/ Versionsverwaltung.   
+
+•Availability (Verfügbarkeit)
+* Daten müssen zuverlässig und zugänglich sein.
+* Schutz vor Ausfällen und Angriffen.
+* Beispiele: Backups, Notfallpläne.
+
+
+**Datensicherheit**
+•Schützt Daten an sich, egal ob personenbezogen oder nicht. 
+* Technisch- organisatorischen Schutz:
+  Verlust, unbefugtem Zugriff
+* Grundlage: Datensicherheits- Dreieck
+* Beispiele: Firewall/ Virenschutz, Datenverschlüsselung, Backups
+
+**Datenschutz**
+•Schützt die Persönlichkeitsrechte von Menschen (personenbezogene Daten).
+* Regelt, welche Daten gespeichert oder verarbeitet werden dürfen.
+* Grundlage: Gesetzte wie das nDSG (CH), die DSGVO (EU).
+* Beispiele: Recht auf Auskunft, Berichtigung oder Löschung von Daten.
+  Daten nur für den angegebenen Zweck verwenden.
+  Einwilligung holen.   
 
 **Lizenzmodelle**  
 Erklären Sie das Wort Lizenz. Was bedeutet das?   
@@ -92,12 +129,6 @@ Wissensüberprüfung: Einzelne Lizenzen ergänzt
   Ich erlaube keinen Zugriff auf alle Dateien.   
 * 10 Benutzen Sie fürs Login einen zweiten Faktor   
   Das wird normalerweise automatisch verlangt.      
-
-
-  **CIA triad**   
-  * Integrität   
-  * Vartraulichkeit   
-  * Verfügbarkeit    
 
 
   **BYOD**
