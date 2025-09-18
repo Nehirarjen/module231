@@ -116,7 +116,8 @@ Wissensüberprüfung: Einzelne Lizenzen ergänzt
 * Third- Party- Cookies: Analysieren Nutzer auf anderen Webseit, um angepasste Werbung anzuzeigen.
 
 **Dark Patterns**   
-* 
+* Designtricks in Websiten und Apps, um den Nutzer zu Entscheidungen zu drängen.
+* Beispiele: "Alle akzeptieren" ist gross während "Ablehnen" klein und etwas versteckt ist.
 
  **Privacy- Einstellungen, Smartphone**
  [Link](https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen)
