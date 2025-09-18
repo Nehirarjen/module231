@@ -21,6 +21,18 @@ Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)
 * Die Verarbeitung führt wahrscheinlich zu einem hohen Risiko für die Privatsphäre der betroffenen Person.
 
 
+***EMRK (Europäische Menschenrechtskonvention)***
+* Die Schweiz ist Vertragsstaat der EMRK.
+* Bildet die menschenrechtliche Basis für den Datenschutz in Europa.
+
+  ***DSGVO (Datenschutz- Grundverordnung der EU)***
+* Für schweizerische Unternehmen relevant, wenn sie: Waren oder Dienstleistungen an Personen in der EU anbieten. Ist der nDSG angenähert, um die EU- Angemessenheit der Schweiz zu sichern( gleichwertiger Datenschutzniveau).
+
+***EDÖB (Eidgenössischer Datenschutz- und Öffentlichkeitbeauftrager)***
+* Unabhängige Aufsichtsbehörde in der Schweiz
+* Beratung vonPrivatspersonen, Unternehmen etc
+* Überwachung der Einhaltung des DSG/nDSG
+
 **Lizenzmodelle**  
 Erklären Sie das Wort Lizenz. Was bedeutet das?   
 * Offiziele Erlaubnis etwas zu machen/ zu besitzen  
