@@ -4,12 +4,6 @@ Heute (19.08.2025) haben wir in 6er Gruppen verschiedene Themen angeschaut und e
 Wir haben gelernt, wie sie entwickelt werden und welche besonders berühmt sind.
 
 
-(25.08.2025)[**Skalentypen**](https://gitlab.com/ch-tbz-it/Stud/m162/-/raw/main/Daten_Formate/images/Skalenniveaus.jpg)
-Nominalskala: Keine Rangordnung/ alle gleichwertig  
-Ordinalskala: Rangordnung  
-Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)  
-
-
 **Schweizer Datenschutzgesetz**  
 •Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?  
 * 01, September 2023
