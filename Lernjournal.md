@@ -198,12 +198,26 @@ mindmap
 
 
 **Caesar- Verschlüsselung**
-
 Bei jedem Buchstaben immer plus 3.   
 Enschlüsselung, 3 zurück.   
-
+(Scheibe(?))   
 Bsp:   
 Klartext: ICHLIEBEDICH   
 Geiheimbotschaft: LFKOLHEHGLFK   
 
 
+**Vigenère Verschlüsselung**
+
+In einer Tabelle wird das Alphabet mehrmals verschoben:   
+ABCDE..   
+BCDEF..   
+CDEFG..   
+
+Es gibt einen Klartext (Nachricht) und einen Schlüssel (Schlüsselwort).   
+Der Buchstabe vom Schlüssel wird in der Tabelle (links) eingetragen, während der des Klartexts oben eingetragen wird. Der, auf dem sie sich in der Tabelle übertragen wir übernommen.   
+Bsp:   
+Klartext: INFORMATIK  
+Schlüsselwort: SPION   
+Geheimbotschaft: QYXAEULLUX   
+![Tabelle:](<img width="888" height="876" alt="Screenshot 2025-09-20 112237" src="https://github.com/user-attachments/assets/d2884309-9989-48e1-858c-df1bbb9e55f2" />
+)
