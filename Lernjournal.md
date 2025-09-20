@@ -221,3 +221,15 @@ Schlüsselwort: SPION
 Geheimbotschaft: QYXAEULLUX   
 ![Tabelle:](<img width="845" height="833" alt="image" src="https://github.com/user-attachments/assets/d182962c-2452-48be-b062-7adef29bc622" />
 )
+
+
+**Hash (Funktion)**
+Eine Hashfunktion ist eine Abbildung, die eine grosse Eingabemenge auf eine kleinere Zielmenge (den Hashwert) abbildet.   
+Diese Funktionen nehmen eine Bit- oder Bytefolge als Input und erzeugen daraus einen Hash von fixer Länge.   
+Die 2 Eingabewerte:   
+* Kollisionsresistent: Es ist praktisch nicht möglich, zwei unterschiedliche Eingabewerte zu finden, die einen identischen Hash ergeben.
+* Einwegfunktion: Es ist praktisch nicht möglich, aus dem Hash den Eingabewert zu rekonstruieren.
+
+Nutzen:   
+* Überprüfung der Datenintegrität
+* Verschlüsselung (VPN,usw.)   
