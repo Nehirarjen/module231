@@ -231,5 +231,20 @@ Die 2 Eingabewerte:
 * Einwegfunktion: Es ist praktisch nicht möglich, aus dem Hash den Eingabewert zu rekonstruieren.
 
 Nutzen:   
-* Überprüfung der Datenintegrität
+* Überprüfung der Datenintegrität 
 * Verschlüsselung (VPN,usw.)   
+
+
+**Symmetrische Verschlüsselung**
+
+Mit der symmetrischen Verschlüsselung kann man geheime Nachrichten austauschen.
+* 1 Schlüssel zum Verschlüsseln und Entschlüsseln
+* Schneller als asymmetrisch
+* Schlüsselaustauschproblem
+* (Cäsar & Vigenère fallen unter diese Kategorie)
+
+**Asymmetrische Verschlüsselung**
+
+* Öffentlicher und privater Schlüssel
+* Langsamer als symmetrisch
+* 
