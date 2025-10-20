@@ -267,3 +267,35 @@ Du hast beides und versuchst den Schlüssel herauszufinden.n* (n - 1)---------- 
      
 **Hybride Verschlüsselung**   
 Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem éffentlichen Schlüssen von jemand anderem und sendet das Ergebniss. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren   
+
+
+
+**Ransomware**
+Eine Form von Schadsoftware, die ein System oder Daten für das Opfer sperrt/ löscht und Geld verlangt um sie zu entsperren/ wiederherstellen.   
+
+*Typische Merkmale:*   
+* Dateiveränderungen
+* Neue Dateiendungen (zmB .locked, .crypt)
+* Ungewöhnliche Anmeldungen (fehlgeschlagene Logins, ect.)
+  
+*Infektionswege*:   
+* Web-Downloads
+* Softwares
+* E-Mail
+  
+*Angriffsschema*:  
+* Vier Phasen: Erstkompromittierung, Verbreitung/Persistenz, Verschlüsselung, Lösegeldforderung  
+* Erstkompromittierung: Meist durch Klick auf schädliche Links oder das Herunterladen infizierter Dateien
+* Verbreitung/Persistenz: Malware legt oft eine Backdoor an, um im System zu bleiben und sich seitlich auszubreiten
+* Verschlüsselung & Forderung: Dateien werden mit starken Algorithmen gesperrt; anschließend folgt eine Lösegeldforderung (häufig in Krypto) meist mit Timer
+* Wichtig: Zahlung garantiert nicht die Wiederherstellung der Daten
+
+*Demo / Fake - Ransomware Sperrbildschirm*    
+<img width="530" height="349" alt="image" src="https://github.com/user-attachments/assets/1db88fb2-5579-45c5-b674-4f8014d51ddb" />
+
+
+**Gruppenarbeit: Szenario**
+Ein Mitarbeiter klickt ausversehen auf einen infizierten Link.:   
+* Die Verbindug vom Gerät zum Stromnetzwerk trennen und einen IT-Spezialisten informieren. 
+* Nicht zahlen, wird höchst wahrscheinlich noch mehr Geld verlangt und nichts freigegeben/ entsperrt.
+
