@@ -299,3 +299,13 @@ Ein Mitarbeiter klickt ausversehen auf einen infizierten Link.:
 * Die Verbindug vom Gerät zum Stromnetzwerk trennen und einen IT-Spezialisten informieren. 
 * Nicht zahlen, wird höchst wahrscheinlich noch mehr Geld verlangt und nichts freigegeben/ entsperrt.
 
+**Ransomware: Key Takeaways**
+
+* Täter zielen oft auf Backups, Domain-Controller und kritische Daten — Backup-Sicherheit entscheidet häufig über Ausfallzeit.
+* Infektionsvektoren: Phishing-Mails, unsichere RDP/Remote-Zugänge, ungepatchte Dienste, bösartige Makros/Dateianhänge.
+* Ransomware-Gruppen betreiben oft „double extortion“: Daten werden gestohlen und veröffentlicht, falls kein Lösegeld gezahlt wird.
+* Schnelle Isolierung des betroffenen Hosts/Netzwerks reduziert lateral movement und Schadensumfang.
+* Regelmäßige, getestete Wiederherstellungsprozesse (Restore-Tests) sind oft wichtiger als reine Backup-Existenz.
+* Transparenz & Meldepflichten: In vielen Jurisdiktionen (z. B. EU DSGVO) kann Datenverlust meldepflichtig sein — rechtlichen Rat frühzeitig einholen.
+* Beweissicherung (Logs, Images) ist wichtig für forensische Analyse und ggf. Strafverfolgung/Versicherung.
+ 
