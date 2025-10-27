@@ -224,16 +224,29 @@ Geheimbotschaft: QYXAEULLUX
 
 
 **Hash (Funktion)**
-Eine Hashfunktion ist eine Abbildung, die eine grosse Eingabemenge auf eine kleinere Zielmenge (den Hashwert) abbildet.   
+Eine Hashfunktion ist eine Abbildung/ mathematisches Verfahren, die eine grosse Eingabemenge auf eine kleinere Zielmenge (den Hashwert) abbildet.   
 Diese Funktionen nehmen eine Bit- oder Bytefolge als Input und erzeugen daraus einen Hash von fixer Länge.   
 Die 2 Eingabewerte:   
 * Kollisionsresistent: Es ist praktisch nicht möglich, zwei unterschiedliche Eingabewerte zu finden, die einen identischen Hash ergeben.
 * Einwegfunktion: Es ist praktisch nicht möglich, aus dem Hash den Eingabewert zu rekonstruieren.
 
-Nutzen:   
+*Nutzen*:   
 * Überprüfung der Datenintegrität 
-* Verschlüsselung (VPN,usw.)   
+* Verschlüsselung (VPN,usw.)
+* Digitale Signaturen
+*Zweck*:
+* Sicherstellung der Datenintegrität
+* Werden genutzt, um zu prüfen, ob Daten unverändert geblieben sind.
+*Funktion*:
+* Berechnet Hashwert der Daten
+* Daten und Hashwert werden getrennt übertragen oder gespeichert
+* Empfänger berechnet erneut den Hashwert aus den empfangenen Daten
+* Stimmen die Hashwerte überein, sind die Daten unverändert, wenn nicht sind sie beschädigt oder verändert.
 
+**Hybride Verschlüsselung**
+Kombiniert die Vorteile der symmetrischen und asymmetrischen Verschlüsselung.
+Vorteile: Grosse Datenmengen können schnell mit der symmetrischen Verschlüsselung verarbeitet werden. Der sichere Austausch von Schlüsseln über das unsichere Netz wird durch das assymetrische Verfahren ermöglicht, das das Problem des Schlüsselaustauschs löst.
+Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem Öffentlichen Schlüssen von jemand anderem und sendet das Ergebnis. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren.   
 
 **Symmetrische Verschlüsselung**
 
@@ -244,7 +257,7 @@ Mit der symmetrischen Verschlüsselung kann man geheime Nachrichten austauschen.
 * (Cäsar & Vigenère fallen unter diese Kategorie)
 
 **Asymmetrische Verschlüsselung**
-
+Öffentlicher Schlüssel wird verwendet um zu verschlüsseln und zum überprüfen von Digitalen signaturen verwendet. --> Kann nur mit dem Privaten schlüssel wieder entschlüsselt werdenRSA; Rabin, Elgamal verfahren
 * Öffentlicher und privater Schlüssel
 * Langsamer als symmetrisch
 
@@ -261,12 +274,35 @@ Wenn man den Geheimtext weissund einzeln Teile des Klartext, dann musst man ausp
 
 **Chosen-Plaintext-Angriff**   
 Du hast beides und versuchst den Schlüssel herauszufinden.n* (n - 1)----------   2   
+   
 
-**Asymmetrische Verschlüsselung**2   
-Öffentlicher Schlüssel wird verwendet um zu verschlüsseln und zum überprüfen von Digitalen signaturen verwendet. --> Kann nur mit dem Privaten schlüssel wieder entschlüsselt werdenRSA; Rabin, Elgamal verfahren   
-     
-**Hybride Verschlüsselung**   
-Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem éffentlichen Schlüssen von jemand anderem und sendet das Ergebniss. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren   
+
+**Zugangsdaten & Passwortsicherheit**
+Mindestens 12-16 Zeichen. Gross-, Kleinbuchstaben, Zahlen und Sonderzeichen. Zwei-Faktor-Authentifizierung
+
+
+
+**Authentifizierung**
+Identität nachweisen. Beispiel: Passwort   
+
+**Autorisierung**
+Zugriffsrechte vergeben und kontrollieren. Beispiel: Zugang zu Dateien/ Software.
+
+
+
+
+**Datensicherung & Backupstrategien**
+Kopie wichtiger Daten. Daten können bei Verlust oder Angriffen wieder wiederhergestellt werden.
+
+|Art                        | Beschreibung                                               | Beispiel / Vorteil                                                     
+|-------------------------- | ---------------------------------------------------------- | -----------------------------------------------------------------------
+|**Vollbackup**             | Alle Daten werden komplett gesichert                       | Einfach, vollständige Kopie – benötigt aber viel Speicherplatz         |
+|**Inkrementelles Backup**  | Nur Daten, die **seit dem letzten Backup** geändert wurden | Spart Speicher & Zeit – braucht vorherige Backups zur Wiederherstellung|
+|**Differenzielles Backup** | Sichert alle Änderungen **seit dem letzten Vollbackup**    | Mittelweg – schneller als Vollbackup, einfacher als inkrementell       |
+
+*3-2-1-Regel*: 3 Kopie, 2 Speicherarten, 1 extern   
+*Ziel*: Schutz vor Datenverlust, Wiederherstellbarkeit
+
 
 
 
