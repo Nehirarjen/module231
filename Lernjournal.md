@@ -309,3 +309,4 @@ Ein Mitarbeiter klickt ausversehen auf einen infizierten Link.:
 * Transparenz & Meldepflichten: In vielen Jurisdiktionen (z. B. EU DSGVO) kann Datenverlust meldepflichtig sein — rechtlichen Rat frühzeitig einholen.
 * Beweissicherung (Logs, Images) ist wichtig für forensische Analyse und ggf. Strafverfolgung/Versicherung.
  
+***Backup***
