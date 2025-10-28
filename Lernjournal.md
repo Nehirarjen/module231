@@ -303,10 +303,14 @@ Kopie wichtiger Daten. Daten können bei Verlust oder Angriffen wieder wiederher
 
 
 **Lizenzmodelle & Urheberrecht**   
-*Urheberrecht*: Das Urheberrecht beschützt Werke (Texte, Musik, Software, Bilder, Videos). Es entsteht automatisch, sobald ein Werk entsteht. Der Urheber kann bestimmen: wer das Werk benutzten darf unter welchen Bedingungen und ob es verändert oder weitergegeben werden darf.   
+*Urheberrecht*: Das Urheberrecht beschützt Werke (Texte, Musik, Software, Bilder, Videos). Es entsteht automatisch, sobald ein Werk entsteht. Der Urheber kann bestimmen: wer das Werk benutzten darf unter welchen Bedingungen und ob es verändert oder weitergegeben werden darf. 
+
 *Lizenze und Lizenzmodelle*: Eine Lizenz ist eine Erlaubnis, ein Werk zu nutzen. Beispiel: Eine Software instalieren oder ein Bild in einer Präsentation zu verwenden. Ohne Erlaubnis gilt es als Urheberrechtverletzung.    
+
 *Proprietär*: Eigentum bleibt beim Hersteller. Nutzung ist nur mit Erlaubnis (Lizenzvertrag, Kauf) erlaubt. Nutzung der Software nach Lizenzvertrag. Es ist keine Weitergabe oder Veränderung erlaubt.   
+
 *Open Source*: In diesem Fall ist der Quellcode öffentlich zugänglich. Jeder darf ihn veränddernoder weitergeben, solange er sich and die Lizenzbedingungen hält. Meistens kostenlose Nutzung. Auch hier gilt das Urheberrecht.   
+
 *Creative Commons*: Ein einmaliges Lizenzsystem für kreative Werke. Beispiel: Bilder, Musik, Texte, Videos ect. Urheber können festlegen, wie ihr Werk benutzt werden kann, ohne jedes Mal einen Vertrag zu unterschreiben.   
 
 
