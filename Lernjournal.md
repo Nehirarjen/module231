@@ -197,7 +197,7 @@ mindmap
   ```
 
 
-**Caesar- Verschlüsselung**
+**Caesar- Verschlüsselung**   
 Bei jedem Buchstaben immer plus 3.   
 Enschlüsselung, 3 zurück.   
 (Scheibe(?))   
@@ -243,12 +243,12 @@ Die 2 Eingabewerte:
 * Empfänger berechnet erneut den Hashwert aus den empfangenen Daten
 * Stimmen die Hashwerte überein, sind die Daten unverändert, wenn nicht sind sie beschädigt oder verändert.
 
-**Hybride Verschlüsselung**
+**Hybride Verschlüsselung**   
 Kombiniert die Vorteile der symmetrischen und asymmetrischen Verschlüsselung.
 Vorteile: Grosse Datenmengen können schnell mit der symmetrischen Verschlüsselung verarbeitet werden. Der sichere Austausch von Schlüsseln über das unsichere Netz wird durch das assymetrische Verfahren ermöglicht, das das Problem des Schlüsselaustauschs löst.
 Der Schlüssel für ein Symmetrisches verfahren Asymmetrisch verschlüsselt.--> eine der beiden Personen erzeugt eine Verschlüsselung für das Symmetrische verfahren. Diesen verschlüsselt sie mit dem Öffentlichen Schlüssen von jemand anderem und sendet das Ergebnis. Diese Person entschlüsselt es es und es können beide über das Symmetrische Verfahren kommunizieren.   
 
-**Symmetrische Verschlüsselung**
+**Symmetrische Verschlüsselung**   
 
 Mit der symmetrischen Verschlüsselung kann man geheime Nachrichten austauschen.
 * 1 Schlüssel zum Verschlüsseln und Entschlüsseln
@@ -256,7 +256,7 @@ Mit der symmetrischen Verschlüsselung kann man geheime Nachrichten austauschen.
 * Schlüsselaustauschproblem
 * (Cäsar & Vigenère fallen unter diese Kategorie)
 
-**Asymmetrische Verschlüsselung**
+**Asymmetrische Verschlüsselung**   
 Öffentlicher Schlüssel wird verwendet um zu verschlüsseln und zum überprüfen von Digitalen signaturen verwendet. --> Kann nur mit dem Privaten schlüssel wieder entschlüsselt werdenRSA; Rabin, Elgamal verfahren
 * Öffentlicher und privater Schlüssel
 * Langsamer als symmetrisch
@@ -274,25 +274,22 @@ Wenn man den Geheimtext weissund einzeln Teile des Klartext, dann musst man ausp
 
 **Chosen-Plaintext-Angriff**   
 Du hast beides und versuchst den Schlüssel herauszufinden.n* (n - 1)----------   2   
-   
 
 
-**Zugangsdaten & Passwortsicherheit**
+**Zugangsdaten & Passwortsicherheit**   
 Mindestens 12-16 Zeichen. Gross-, Kleinbuchstaben, Zahlen und Sonderzeichen. Zwei-Faktor-Authentifizierung
 
 
-
-**Authentifizierung**
+**Authentifizierung**   
 Identität nachweisen. Beispiel: Passwort   
 
-**Autorisierung**
+**Autorisierung**   
 Zugriffsrechte vergeben und kontrollieren. Beispiel: Zugang zu Dateien/ Software.
 
 
 
-
-**Datensicherung & Backupstrategien**
-Kopie wichtiger Daten. Daten können bei Verlust oder Angriffen wieder wiederhergestellt werden.
+**Datensicherung & Backupstrategien**   
+Kopie wichtiger Daten. Daten können bei Verlust oder Angriffen wieder wiederhergestellt werden.   
 
 |Art                        | Beschreibung                                               | Beispiel / Vorteil                                                     
 |-------------------------- | ---------------------------------------------------------- | -----------------------------------------------------------------------
@@ -300,13 +297,20 @@ Kopie wichtiger Daten. Daten können bei Verlust oder Angriffen wieder wiederher
 |**Inkrementelles Backup**  | Nur Daten, die **seit dem letzten Backup** geändert wurden | Spart Speicher & Zeit – braucht vorherige Backups zur Wiederherstellung|
 |**Differenzielles Backup** | Sichert alle Änderungen **seit dem letzten Vollbackup**    | Mittelweg – schneller als Vollbackup, einfacher als inkrementell       |
 
-*3-2-1-Regel*: 3 Kopie, 2 Speicherarten, 1 extern   
-*Ziel*: Schutz vor Datenverlust, Wiederherstellbarkeit
+*3-2-1-Regel*: 3 Kopie, 2 Speicherarten, 1 extern     
+*Ziel*: Schutz vor Datenverlust, Wiederherstellbarkeit   
 
 
 
+**Lizenzmodelle & Urheberrecht**   
+*Urheberrecht*: Das Urheberrecht beschützt Werke (Texte, Musik, Software, Bilder, Videos). Es entsteht automatisch, sobald ein Werk entsteht. Der Urheber kann bestimmen: wer das Werk benutzten darf unter welchen Bedingungen und ob es verändert oder weitergegeben werden darf.   
+*Lizenze und Lizenzmodelle*: Eine Lizenz ist eine Erlaubnis, ein Werk zu nutzen. Beispiel: Eine Software instalieren oder ein Bild in einer Präsentation zu verwenden. Ohne Erlaubnis gilt es als Urheberrechtverletzung.    
+*Proprietär*: Eigentum bleibt beim Hersteller. Nutzung ist nur mit Erlaubnis (Lizenzvertrag, Kauf) erlaubt. Nutzung der Software nach Lizenzvertrag. Es ist keine Weitergabe oder Veränderung erlaubt.   
+*Open Source*: In diesem Fall ist der Quellcode öffentlich zugänglich. Jeder darf ihn veränddernoder weitergeben, solange er sich and die Lizenzbedingungen hält. Meistens kostenlose Nutzung. Auch hier gilt das Urheberrecht.   
+*Creative Commons*: Ein einmaliges Lizenzsystem für kreative Werke. Beispiel: Bilder, Musik, Texte, Videos ect. Urheber können festlegen, wie ihr Werk benutzt werden kann, ohne jedes Mal einen Vertrag zu unterschreiben.   
 
-**Ransomware**
+
+**Ransomware**   
 Eine Form von Schadsoftware, die ein System oder Daten für das Opfer sperrt/ löscht und Geld verlangt um sie zu entsperren/ wiederherstellen.   
 
 *Typische Merkmale:*   
@@ -330,13 +334,12 @@ Eine Form von Schadsoftware, die ein System oder Daten für das Opfer sperrt/ l�
 <img width="530" height="349" alt="image" src="https://github.com/user-attachments/assets/1db88fb2-5579-45c5-b674-4f8014d51ddb" />
 
 
-**Gruppenarbeit: Szenario**
+**Gruppenarbeit: Szenario**   
 Ein Mitarbeiter klickt ausversehen auf einen infizierten Link.:   
 * Die Verbindug vom Gerät zum Stromnetzwerk trennen und einen IT-Spezialisten informieren. 
 * Nicht zahlen, wird höchst wahrscheinlich noch mehr Geld verlangt und nichts freigegeben/ entsperrt.
 
-**Ransomware: Key Takeaways**
-
+**Ransomware: Key Takeaways**   
 * Täter zielen oft auf Backups, Domain-Controller und kritische Daten — Backup-Sicherheit entscheidet häufig über Ausfallzeit.
 * Infektionsvektoren: Phishing-Mails, unsichere RDP/Remote-Zugänge, ungepatchte Dienste, bösartige Makros/Dateianhänge.
 * Ransomware-Gruppen betreiben oft „double extortion“: Daten werden gestohlen und veröffentlicht, falls kein Lösegeld gezahlt wird.
