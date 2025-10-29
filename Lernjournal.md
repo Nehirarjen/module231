@@ -1,13 +1,29 @@
 # Lernjournal.Module231
 
-## **Inhaltsverzeichnis**
-
+**Inhaltsverzeichnis**
+- [Schweizer Datenschuzgesetz](**Schweizer-Datenschutzgesetz**)
+- [CIA- Triade](**Datensicherheits--Dreieck-(CIA--Triade)** )
+- [Datensicherheit- und schutz](**Datensicherheit**)
+- [Lizenzmodelle](**Lizenzmodelle**)
+- [Cookies und Dark Patterns](**Cookies**)
+- [Privacy](**Privacy--Einstellungen,-Smartphone**)
+- [BYOD](**BYOD**)
+- [mermaid](**mermaid--challenge**)
+- [Hash Funktion](**Hash-(Funktion)**)
+- [Verschlüsselungen](**Caesar--Verschlüsselung**)
+- [Angriffe](**Ciphertext-Only-Angriff** )
+- [Authentifizierung und Autorisierung](**Authentifizierung**)
+- [Datensicherung und Backupstrategien](**Datensicherun-&-Backupstrategien**)
+- [Lizenzmodelle und Urheberrecht](**Lizenzmodelle-&-Urheberrecht** )
+- [Ransomware](**Ransomware**)
+- [Ransomware Key-Takeaway](**Ransomware:-Key-Takeaways**)
+- [Mindmap Backup](**Mermaid---Mindmap-Backup**)
 
 Heute (19.08.2025) haben wir in 6er Gruppen verschiedene Themen angeschaut und eine [Präsentation](https://tbzedu-my.sharepoint.com/:p:/r/personal/lionel_schultze_edu_tbz_ch/_layouts/15/Doc.aspx?sourcedoc=%7BBED84A56-376D-4469-8452-A018EBABC099%7D&file=Deepfakes.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=f09648af-8ce9-4aa8-8676-928cacfaf7ea&wdPreviousSessionSrc=AppHomeWeb&ct=1755770365071) über Deep Fakes hergestellt. 
 Wir haben gelernt, wie sie entwickelt werden und welche besonders berühmt sind.
 
 
-#### Schweizer Datenschutzgesetz  
+**Schweizer Datenschutzgesetz** 
 •Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?  
 * 01, September 2023
  
@@ -21,7 +37,7 @@ Wir haben gelernt, wie sie entwickelt werden und welche besonders berühmt sind.
 * Im Außenverhältnis haftet grundsätzlich der Verantwortliche; der Schweiz-Vertreter kann im Innenverhältnis vertraglich haftbar gemacht werden, falls er gegen seine Vereinbarung mit dem Verantwortlichen verstösst.
 
 
-#### EMRK (Europäische Menschenrechtskonvention)
+***EMRK (Europäische Menschenrechtskonvention)***
 * Die Schweiz ist Vertragsstaat der EMRK.
 * Bildet die menschenrechtliche Basis für den Datenschutz in Europa.
 
@@ -36,7 +52,7 @@ Waren oder Dienstleistungen an Personen in der EU anbieten.
 * Überwachung der Einhaltung des DSG/nDSG
 
 
-**Datensicherheits- Dreieck (CIA- Triade):**   
+**Datensicherheits- Dreieck (CIA- Triade)**   
 •Confidentiality (Vertraulichkeit)  
 * Schutz vor unbefugtem Zugriff von Daten.
 * Nur Berechtigte dürfen auf Daten zugreifen.
@@ -200,6 +216,27 @@ mindmap
   ```
 
 
+**Hash (Funktion)**
+Eine Hashfunktion ist eine Abbildung/ mathematisches Verfahren, die eine grosse Eingabemenge auf eine kleinere Zielmenge (den Hashwert) abbildet.   
+Diese Funktionen nehmen eine Bit- oder Bytefolge als Input und erzeugen daraus einen Hash von fixer Länge.   
+Die 2 Eingabewerte:   
+* Kollisionsresistent: Es ist praktisch nicht möglich, zwei unterschiedliche Eingabewerte zu finden, die einen identischen Hash ergeben.
+* Einwegfunktion: Es ist praktisch nicht möglich, aus dem Hash den Eingabewert zu rekonstruieren.
+
+*Nutzen*:   
+* Überprüfung der Datenintegrität 
+* Verschlüsselung (VPN,usw.)
+* Digitale Signaturen
+*Zweck*:
+* Sicherstellung der Datenintegrität
+* Werden genutzt, um zu prüfen, ob Daten unverändert geblieben sind.
+*Funktion*:
+* Berechnet Hashwert der Daten
+* Daten und Hashwert werden getrennt übertragen oder gespeichert
+* Empfänger berechnet erneut den Hashwert aus den empfangenen Daten
+* Stimmen die Hashwerte überein, sind die Daten unverändert, wenn nicht sind sie beschädigt oder verändert.
+
+
 **Caesar- Verschlüsselung**   
 Bei jedem Buchstaben immer plus 3.   
 Enschlüsselung, 3 zurück.   
@@ -225,26 +262,6 @@ Geheimbotschaft: QYXAEULLUX
 ![Tabelle:](<img width="845" height="833" alt="image" src="https://github.com/user-attachments/assets/d182962c-2452-48be-b062-7adef29bc622" />
 )
 
-
-**Hash (Funktion)**
-Eine Hashfunktion ist eine Abbildung/ mathematisches Verfahren, die eine grosse Eingabemenge auf eine kleinere Zielmenge (den Hashwert) abbildet.   
-Diese Funktionen nehmen eine Bit- oder Bytefolge als Input und erzeugen daraus einen Hash von fixer Länge.   
-Die 2 Eingabewerte:   
-* Kollisionsresistent: Es ist praktisch nicht möglich, zwei unterschiedliche Eingabewerte zu finden, die einen identischen Hash ergeben.
-* Einwegfunktion: Es ist praktisch nicht möglich, aus dem Hash den Eingabewert zu rekonstruieren.
-
-*Nutzen*:   
-* Überprüfung der Datenintegrität 
-* Verschlüsselung (VPN,usw.)
-* Digitale Signaturen
-*Zweck*:
-* Sicherstellung der Datenintegrität
-* Werden genutzt, um zu prüfen, ob Daten unverändert geblieben sind.
-*Funktion*:
-* Berechnet Hashwert der Daten
-* Daten und Hashwert werden getrennt übertragen oder gespeichert
-* Empfänger berechnet erneut den Hashwert aus den empfangenen Daten
-* Stimmen die Hashwerte überein, sind die Daten unverändert, wenn nicht sind sie beschädigt oder verändert.
 
 **Hybride Verschlüsselung**   
 Kombiniert die Vorteile der symmetrischen und asymmetrischen Verschlüsselung.
