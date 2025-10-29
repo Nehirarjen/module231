@@ -14,7 +14,7 @@
 - [Angriffe](**Ciphertext-Only-Angriff** )
 - [Authentifizierung und Autorisierung](**Authentifizierung**)
 - [Datensicherung und Backupstrategien](**Datensicherun-&-Backupstrategien**)
-- [Lizenzmodelle und Urheberrecht](**Lizenzmodelle-&-Urheberrecht** )
+- [Lizenzmodelle und Urheberrecht](**Lizenzmodelle-&-Urheberrecht**)
 - [Ransomware](**Ransomware**)
 - [Ransomware Key-Takeaway](**Ransomware:-Key-Takeaways**)
 - [Mindmap Backup](**Mermaid---Mindmap-Backup**)
