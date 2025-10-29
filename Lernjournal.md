@@ -1,6 +1,6 @@
 # Lernjournal.Module231
 
-**Inhaltsverzeichnis**
+## Inhaltsverzeichnis
 - [Schweizer Datenschuzgesetz](**Schweizer-Datenschutzgesetz**)
 - [CIA- Triade](**Datensicherheits--Dreieck-(CIA--Triade)** )
 - [Datensicherheit- und schutz](**Datensicherheit**)
