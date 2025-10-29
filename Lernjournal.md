@@ -21,7 +21,7 @@ Wir haben gelernt, wie sie entwickelt werden und welche besonders berühmt sind.
 * Im Außenverhältnis haftet grundsätzlich der Verantwortliche; der Schweiz-Vertreter kann im Innenverhältnis vertraglich haftbar gemacht werden, falls er gegen seine Vereinbarung mit dem Verantwortlichen verstösst.
 
 
-***EMRK (Europäische Menschenrechtskonvention)***
+#### EMRK (Europäische Menschenrechtskonvention)
 * Die Schweiz ist Vertragsstaat der EMRK.
 * Bildet die menschenrechtliche Basis für den Datenschutz in Europa.
 
