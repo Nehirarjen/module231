@@ -1,6 +1,7 @@
 # Lernjournal.Module231
 
 ## Inhaltsverzeichnis
+- [Herausforderungen in der digitalen Welt](**Herausforderungen-in-der-digitalen-Welt**)
 - [Schweizer Datenschuzgesetz](**Schweizer-Datenschutzgesetz**)
 - [CIA- Triade](**Datensicherheits--Dreieck-(CIA--Triade)** )
 - [Datensicherheit- und schutz](**Datensicherheit**)
@@ -8,6 +9,7 @@
 - [Cookies und Dark Patterns](**Cookies**)
 - [Privacy](**Privacy--Einstellungen,-Smartphone**)
 - [BYOD](**BYOD**)
+- [GIT Konzepte](**GIT-Konzepte**)
 - [mermaid](**mermaid--challenge**)
 - [Hash Funktion](**Hash-(Funktion)**)
 - [Verschlüsselungen](**Caesar--Verschlüsselung**)
@@ -19,15 +21,17 @@
 - [Ransomware Key-Takeaways](**Ransomware-Key-Takeaways**)
 - [Mindmap Backup](**Mermaid---Mindmap-Backup**)
 
-Heute (19.08.2025) haben wir in 6er Gruppen verschiedene Themen angeschaut und eine [Präsentation](https://tbzedu-my.sharepoint.com/:p:/r/personal/lionel_schultze_edu_tbz_ch/_layouts/15/Doc.aspx?sourcedoc=%7BBED84A56-376D-4469-8452-A018EBABC099%7D&file=Deepfakes.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=f09648af-8ce9-4aa8-8676-928cacfaf7ea&wdPreviousSessionSrc=AppHomeWeb&ct=1755770365071) über Deep Fakes hergestellt. 
-Wir haben gelernt, wie sie entwickelt werden und welche besonders berühmt sind.
 
+**Herausforderungen in der digitalen Welt**
+Heute (19.08.2025) haben wir in 6er Gruppen verschiedene Themen angeschaut und eine [Präsentation](https://tbzedu-my.sharepoint.com/:p:/r/personal/lionel_schultze_edu_tbz_ch/_layouts/15/Doc.aspx?sourcedoc=%7BBED84A56-376D-4469-8452-A018EBABC099%7D&file=Deepfakes.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=f09648af-8ce9-4aa8-8676-928cacfaf7ea&wdPreviousSessionSrc=AppHomeWeb&ct=1755770365071) über Deep Fakes hergestellt. 
+Ein DeepFake ist ein von KI manipuliertes Bild oder Vidoes, das so real wirkt, das man kaum erkennt, dass es gefälscht ist. 
+
+*Online-Communities*: Eine Online-Community ist eine digitale Gemeinschaft, die über das Interne kommunizieren und Interessen teilen.
 
 **Schweizer Datenschutzgesetz** 
 •Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?  
 * 01, September 2023
  
-     
 •In welchen Fällen müssen Verantwortliche mit Sitz im Ausland einen Schweiz-Vertreter benennen?    
 * Verarbeitung steht im Zusammenhang mit dem Angebot der Waren oder Dienstleistungen in der Schweiz.
 * Die Verarbeitung personbezogener Daten ist umfangreich und findet regelmässig statt.
@@ -178,6 +182,17 @@ Wissensüberprüfung: Einzelne Lizenzen ergänzt
      Integrierte Software: Microsoft Defender Antivirus   
 * 10 Installieren Sie Software nur aus vertrauenswürdigen Quellen   
     Ich lade nur von den offizielen Websiten Apps herunter.   
+
+**GIT Konzepte**
+* Commit – Gespeicherte Änderung
+* Branch – Entwicklungszweig
+* Merge – Änderungen zusammenführen
+* Main – Hauptzweig
+* Clone – Repo herunterladen
+* Push – Änderungen hochladen
+* Pull – Änderungen abrufen
+* Fetch – Remote-Daten holen
+* Add – Datei vormerken
 
 	
 **mermaid-challenge**
