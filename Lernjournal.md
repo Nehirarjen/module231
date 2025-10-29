@@ -352,4 +352,43 @@ Ein Mitarbeiter klickt ausversehen auf einen infizierten Link.:
 * Transparenz & Meldepflichten: In vielen Jurisdiktionen (z. B. EU DSGVO) kann Datenverlust meldepflichtig sein — rechtlichen Rat frühzeitig einholen.
 * Beweissicherung (Logs, Images) ist wichtig für forensische Analyse und ggf. Strafverfolgung/Versicherung.
  
-***Backup -- Mindmap auf Teams***
+
+
+**Mermaid - Mindmap Backup**
+File-Level Backup (Dateiebene)
+Was passiert: Es werden einzelne Dateien und Ordner kopiert (z. B. mit rsync, robocopy, tar, etc.).
+Beispiel: Wenn du deinen Home-Ordner sicherst, werden alle Dateien wie Dokumente, Bilder, Videos einzeln gelesen und kopiert.
+
+Block-Level Backup (Blockebene)
+Was passiert: Es werden die physischen Datenblöcke einer Festplatte oder Partition kopiert – unabhängig vom Dateisystem.
+Beispiel: Ein Programm liest Block für Block die gesamte Festplatte und erstellt ein exaktes Abbild (Image) – inklusive Bootsektor, Betriebssystem, versteckter Dateien und leerer Bereiche.
+
+
+
+```mermaid
+mindmap
+  root((Warum wir ein Backup machen))
+    Datensicherheit
+      Schutz vor Datenverlust
+      Wiederherstellung nach Defekten
+      Absicherung gegen versehentliches Löschen
+    Schutz vor Bedrohungen
+      Malware & Viren (z. B. Ransomware)
+      Hackerangriffe
+      Sabotage oder Diebstahl
+    Technische Probleme
+      Festplattencrash
+      Softwarefehler
+      Stromausfall
+    Rechtliche & organisatorische Gründe
+      Einhaltung gesetzlicher Vorgaben
+      Nachvollziehbarkeit (z. B. bei Audits)
+      Schutz geschäftskritischer Daten
+    Zeit & Kosten sparen
+      Schnelle Wiederherstellung
+      Vermeidung von Ausfallzeiten
+      Geringere Folgekosten
+    Flexibilität & Mobilität
+      Zugriff von überall (Cloud-Backup)
+      Versionierung & Historie verfügbar
+  ```
